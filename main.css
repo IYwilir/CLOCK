@@ -1,0 +1,16 @@
+body{
+    text-align: center;
+    margin-top: 300px;
+    font-family: 'Poppins';
+}
+#clock{
+      font-weight: 300;
+      font-size: 120px;
+      text-shadow: 11px 0px 1px  rgba(246, 0, 0, 0.2);
+      color:wheat
+
+}
+#color{
+  color:white;
+  
+}
